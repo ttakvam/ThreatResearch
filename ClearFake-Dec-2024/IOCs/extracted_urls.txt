@@ -8,3 +8,4 @@ https://solve.nkve.org/awjsx.captcha?u=${usr_id} 2025-01-18 16:28:58
 https://solve.hhxe.org/awjsx.captcha?u=${usr_id} 2025-01-19 18:14:57
 https://solve.xtxy.org/awjsx.captcha?u=${usr_id} 2025-01-20 18:00:52
 https://solve.pvsu.org/awjsx.captcha?u=${usr_id} 2025-01-21 08:16:25
+https://solve.${dmn}/awjsx.captcha?u=${usr_id} 2025-01-23 18:28:20
