@@ -9,3 +9,4 @@ https://solve.hhxe.org/awjsx.captcha?u=${usr_id} 2025-01-19 18:14:57
 https://solve.xtxy.org/awjsx.captcha?u=${usr_id} 2025-01-20 18:00:52
 https://solve.pvsu.org/awjsx.captcha?u=${usr_id} 2025-01-21 08:16:25
 https://solve.haxy.org/awjsx.captcha?u=${usr_id} 2025-01-23 19:28:03
+https://solve.gyke.org/awjsx.captcha?u=${usr_id} 2025-01-24 12:51:59
