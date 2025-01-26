@@ -11,3 +11,4 @@ https://solve.pvsu.org/awjsx.captcha?u=${usr_id} 2025-01-21 08:16:25
 https://solve.haxy.org/awjsx.captcha?u=${usr_id} 2025-01-23 19:28:03
 https://solve.gyke.org/awjsx.captcha?u=${usr_id} 2025-01-24 12:51:59
 https://solve.xgnv.org/awjsx.captcha?u=${usr_id} 2025-01-25 08:07:44
+https://solve.lqwt.org/awjsx.captcha?u=${usr_id} 2025-01-26 04:53:32
