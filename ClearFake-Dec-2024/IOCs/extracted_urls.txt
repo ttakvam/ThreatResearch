@@ -17,3 +17,4 @@ https://solve.ooeu.org/awjsx.captcha?u=${usr_id} 2025-01-27 22:14:51
 https://solve.eiui.org/awjsx.captcha?u=${usr_id} 2025-01-28 11:15:21
 https://solve.ueeu.org/awjsx.captcha?u=${usr_id} 2025-01-28 14:15:28
 https://solve.iyuu.org/awjsx.captcha?u=${usr_id} 2025-01-28 17:15:35
+https://solve.rywi.org/awjsx.captcha?u=${usr_id} 2025-01-28 22:30:48
