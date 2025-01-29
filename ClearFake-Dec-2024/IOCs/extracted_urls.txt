@@ -20,3 +20,4 @@ https://solve.iyuu.org/awjsx.captcha?u=${usr_id} 2025-01-28 17:15:35
 https://solve.rywi.org/awjsx.captcha?u=${usr_id} 2025-01-28 22:30:48
 https://solve.yiie.org/awjsx.captcha?u=${usr_id} 2025-01-29 07:46:09
 https://solve.uayy.org/awjsx.captcha?u=${usr_id} 2025-01-29 08:31:11
+https://solve.eyuy.org/awjsx.captcha?u=${usr_id} 2025-01-29 09:46:14
