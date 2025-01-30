@@ -22,3 +22,4 @@ https://solve.yiie.org/awjsx.captcha?u=${usr_id} 2025-01-29 07:46:09
 https://solve.uayy.org/awjsx.captcha?u=${usr_id} 2025-01-29 08:31:11
 https://solve.eyuy.org/awjsx.captcha?u=${usr_id} 2025-01-29 09:46:14
 https://solve.zyde.org/awjsx.captcha?u=${usr_id} 2025-01-30 14:02:20
+https://solve.feqy.org/awjsx.captcha?u=${usr_id} 2025-01-30 20:17:35
