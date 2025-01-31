@@ -26,3 +26,4 @@ https://solve.feqy.org/awjsx.captcha?u=${usr_id} 2025-01-30 20:17:35
 https://solve.wyji.org/awjsx.captcha?u=${usr_id} 2025-01-31 09:03:05
 https://solve.qabi.org/awjsx.captcha?u=${usr_id} 2025-01-31 11:33:11
 https://solve.wbth.org/awjsx.captcha?u=${usr_id} 2025-01-31 17:33:25
+https://solve.xclb.org/awjsx.captcha?u=${usr_id} 2025-01-31 20:33:33
