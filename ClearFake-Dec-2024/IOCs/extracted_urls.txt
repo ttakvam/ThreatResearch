@@ -37,3 +37,4 @@ https://solve.gesz.org/awjsx.captcha?u=${usr_id} 2025-02-03 06:40:21
 https://solve.zexd.org/awjsx.captcha?u=${usr_id} 2025-02-03 07:19:30
 https://solve.waqj.org/awjsx.captcha?u=${usr_id} 2025-02-03 08:17:55
 https://solve.lnww.org/awjsx.captcha?u=${usr_id} 2025-02-03 10:26:23
+https://solve.qlpb.org/awjsx.captcha?u=${usr_id} 2025-02-03 15:38:11
