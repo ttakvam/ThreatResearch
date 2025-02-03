@@ -39,3 +39,4 @@ https://solve.waqj.org/awjsx.captcha?u=${usr_id} 2025-02-03 08:17:55
 https://solve.lnww.org/awjsx.captcha?u=${usr_id} 2025-02-03 10:26:23
 https://solve.qlpb.org/awjsx.captcha?u=${usr_id} 2025-02-03 15:38:11
 https://solve.reqy.bet/awjsx.captcha?u=${usr_id} 2025-02-03 16:41:22
+https://solve.vyzu.bet/awjsx.captcha?u=${usr_id} 2025-02-03 17:16:24
