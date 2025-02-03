@@ -35,3 +35,4 @@ https://solve.nrxk.org/awjsx.captcha?u=${usr_id} 2025-02-02 16:09:44
 https://solve.nohz.org/awjsx.captcha?u=${usr_id} 2025-02-02 18:54:51
 https://solve.gesz.org/awjsx.captcha?u=${usr_id} 2025-02-03 06:40:21
 https://solve.zexd.org/awjsx.captcha?u=${usr_id} 2025-02-03 07:19:30
+https://solve.waqj.org/awjsx.captcha?u=${usr_id} 2025-02-03 08:17:55
