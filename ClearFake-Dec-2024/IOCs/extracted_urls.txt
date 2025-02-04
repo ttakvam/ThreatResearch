@@ -54,3 +54,4 @@ https://solve.tugy.run/awjsx.captcha?u=${usr_id} 2025-02-04 13:25:28
 https://solve.socu.run/awjsx.captcha?u=${usr_id} 2025-02-04 13:48:51
 https://solve.vusy.run/awjsx.captcha?u=${usr_id} 2025-02-04 14:35:35
 https://check.vusy.run/gkcxv.google?u=${usr_id} 2025-02-04 15:22:18
+https://check.xufx.run/gkcxv.google?u=${usr_id} 2025-02-04 15:45:40
