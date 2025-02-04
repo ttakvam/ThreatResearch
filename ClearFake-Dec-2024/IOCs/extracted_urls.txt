@@ -46,3 +46,4 @@ https://solve.qace.bet/awjsx.captcha?u=${usr_id} 2025-02-04 07:11:38
 https://solve.wuga.bet/awjsx.captcha?u=${usr_id} 2025-02-04 07:35:00
 https://solve.fola.bet/awjsx.captcha?u=${usr_id} 2025-02-04 07:46:43
 https://solve.zera.bet/awjsx.captcha?u=${usr_id} 2025-02-04 07:58:25
+https://solve.reqy.digital/awjsx.captcha?u=${usr_id} 2025-02-04 08:45:09
