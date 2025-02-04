@@ -56,3 +56,4 @@ https://solve.vusy.run/awjsx.captcha?u=${usr_id} 2025-02-04 14:35:35
 https://check.vusy.run/gkcxv.google?u=${usr_id} 2025-02-04 15:22:18
 https://check.xufx.run/gkcxv.google?u=${usr_id} 2025-02-04 15:45:40
 https://check.dejh.run/gkcxv.google?u=${usr_id} 2025-02-04 16:44:04
+https://check.mujf.run/gkcxv.google?u=${usr_id} 2025-02-04 18:17:30
