@@ -43,3 +43,4 @@ https://solve.vyzu.bet/awjsx.captcha?u=${usr_id} 2025-02-03 17:16:24
 https://solve.tyro.bet/awjsx.captcha?u=${usr_id} 2025-02-03 19:07:40
 https://solve.qoze.bet/awjsx.captcha?u=${usr_id} 2025-02-04 06:24:54
 https://solve.qace.bet/awjsx.captcha?u=${usr_id} 2025-02-04 07:11:38
+https://solve.wuga.bet/awjsx.captcha?u=${usr_id} 2025-02-04 07:35:00
