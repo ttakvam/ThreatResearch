@@ -59,3 +59,4 @@ https://check.dejh.run/gkcxv.google?u=${usr_id} 2025-02-04 16:44:04
 https://check.mujf.run/gkcxv.google?u=${usr_id} 2025-02-04 18:17:30
 https://check.repw.run/gkcxv.google?u=${usr_id} 2025-02-04 19:27:35
 https://check.puvt.run/gkcxv.google?u=${usr_id} 2025-02-05 06:44:50
+https://check.jefx.shop/gkcxv.google?u=${usr_id} 2025-02-05 07:19:53
