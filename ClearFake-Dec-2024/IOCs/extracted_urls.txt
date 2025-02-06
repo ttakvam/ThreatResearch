@@ -76,3 +76,4 @@ https://check.alku.ink/gkcxv.google?u=${usr_id} 2025-02-06 12:20:20
 https://check.amda.ink/gkcxv.google?u=${usr_id} 2025-02-06 13:00:24
 https://check.lolp.ink/gkcxv.google?u=${usr_id} 2025-02-06 13:20:27
 https://check.bxayj.site/gkcxv.google?i=${usr_id} 2025-02-06 14:40:33
+https://check.owacq.site/gkcxv.google?i=${usr_id} 2025-02-06 15:20:36
